@@ -1,14 +1,18 @@
 # Yasso Assistant APK downloads
 
-Signed Android APK releases only. This repository contains no application source, signing keys, user records, or backend.
+[Download Latest APK](https://raw.githubusercontent.com/odoubal19773-lgtm/yasso-assistant-downloads/main/Yasso-Assistant.apk)
+
+[Download v1.0.0 APK](https://raw.githubusercontent.com/odoubal19773-lgtm/yasso-assistant-downloads/v1.0.0/Yasso-Assistant-1.0.0.apk) · [Latest SHA-256](https://raw.githubusercontent.com/odoubal19773-lgtm/yasso-assistant-downloads/main/Yasso-Assistant.apk.sha256)
+
+Public signed Android APK downloads only. No account or sign-in is required. This repository contains no application source, signing keys, family data or backend.
 
 ## Install
 
-1. Open Releases and download the APK on an Android 8.0+ phone.
-2. Open the downloaded APK and allow installation from that source if Android asks.
+1. Download the APK on Android 8.0 or newer.
+2. Open the file and allow installation from that source if Android asks.
 3. Open Yasso Assistant. Money, reminders, shopping and routines work offline.
-4. In Android reminders, allow notifications and precise timing, then test an alert while the app is closed.
+4. Allow Android notifications and precise timing in the app, then run its 30-second notification test. Physical notification delivery still needs testing on your phone.
 
-Install updates over the existing app. Do not uninstall or clear storage. Export a backup before updating. Native notification delivery still requires physical device testing. No GitHub login is required for public APK downloads.
+Install updates over the existing app. Do not uninstall or clear storage. Export a backup before updating.
 
-The versioned APK and fixed-name APK contain identical signed bytes. SHA-256 files are provided for integrity checks.
+Versioned APKs are retained under their release tags. The Latest APK link uses the fixed filename on main and will point to future approved updates. Both v1.0.0 APK filenames contain identical signed bytes.
